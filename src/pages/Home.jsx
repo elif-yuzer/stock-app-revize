@@ -8,6 +8,7 @@ const Home = () => {
       <Button className="text-2xl bg-amber-400 ">
         Deneme
     </Button>
+    <Button className="bg-amber-400 p-4 uppercase">Ngnix</Button>
   </div>
   )
 }

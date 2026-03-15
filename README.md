@@ -6,3 +6,5 @@ This project goes beyond just frontend development; it is designed with a comple
 * **Server:** Ubuntu 22.04 LTS running on Hyper-V.
 * **Networking:** Custom static IP configuration using `Netplan` to ensure stable SSH access and consistent internal routing.
 * **CI/CD (Upcoming):** Automated bash scripts (`deploy.sh`) for seamless pulling, building, and serving the latest application state.
+
+
